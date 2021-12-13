@@ -84,7 +84,7 @@ class _CardViewState extends State<CardView>
                   isFacedUp = !isFacedUp;
                 },
                 child: Container(
-                  color: Colors.red,
+                  // color: Colors.red,
                   alignment: Alignment.center,
                   decoration: BoxDecoration(
                     border: Border.all(width: 3, color: Colors.red),
